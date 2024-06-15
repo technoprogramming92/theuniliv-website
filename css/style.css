@@ -18089,6 +18089,21 @@ input.cart-plus-minus-box {
   }
 }
 
+.float {
+  position: fixed;
+  width: 65px;
+  height: 65px;
+  bottom: 140px;
+  right: 50px;
+  background-color: #0c9;
+  color: #fff;
+  border-radius: 50px;
+  text-align: center;
+}
+
+.my-float {
+  margin-top: 22px;
+}
 /* ----------------------------------------------------
     END
 ---------------------------------------------------- */
